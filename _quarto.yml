@@ -2,18 +2,18 @@ project:
   type: website
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: "Packer Wittwer - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
-  repo-url: https://github.com/username/username.github.io
+  repo-url: https://github.com/packerwittwer/packerwittwer.github.io
   #repo-actions: [issue] #if you want to allow others to report issues on your site uncomment this line
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Packer Wittwer 2024©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: www.linkedin.com/in/packer-魏伟乐-wittwer-5300aa280
 
   navbar:
     background: primary
